@@ -1,0 +1,37 @@
+if (document.getElementById("task_op").innerText == "–") {
+var tex = ( Number(document.getElementById("task_x").innerText) - Number(document.getElementById("task_y").innerText) );
+
+if(tex == document.getElementById("task_res").innerText) {
+button_correct.click()
+} else {
+button_wrong.click()
+}
+}
+
+if (document.getElementById("task_op").innerText == "+") {
+var tex = (+document.getElementById("task_x").innerText) + (+document.getElementById("task_y").innerText);
+if(tex == document.getElementById("task_res").innerText) {
+button_correct.click()
+} else {
+button_wrong.click()
+}
+}
+
+
+if (document.getElementById("task_op").innerText == "/") {
+var tex = (document.getElementById("task_x").innerText / document.getElementById("task_y").innerText);
+if(tex == document.getElementById("task_res").innerText) {
+button_correct.click()
+} else {
+button_wrong.click()
+}
+}
+
+if (document.getElementById("task_op").innerText == "×") {
+var tex = (document.getElementById("task_x").innerText * document.getElementById("task_y").innerText);
+if(tex == document.getElementById("task_res").innerText) {
+button_correct.click()
+} else {
+button_wrong.click()
+}
+}
