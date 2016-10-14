@@ -1,2 +1,4 @@
-# TelegramBattleMathSolver
-a simple code make you answer the question :)
+# How to use it ?
+just run it on the browser console, then have fun :-)
+
+#Spamming cause banned.
