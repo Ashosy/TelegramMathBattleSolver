@@ -1,5 +1,5 @@
 # How to use it ?
-just run it on the browser console, then have fun :-)
+copy and paste on browser console, it will solve 1 question per copy :)
 
 #Spamming cause banned.
-try not spam with it, getting high score in seconds cause banned from all telegram games :-)
+do not spam with it, getting high score in seconds cause banned from all telegram games :-)
